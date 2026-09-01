@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" role="img" aria-labelledby="title desc">
+  <title id="title">БЕЛАТРИУМ</title>
+  <desc id="desc">Логотип ЧРСУП БЕЛАТРИУМ — комплексный ремонт и инженерные системы</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd166"/>
+      <stop offset="1" stop-color="#f29f05"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(18 18)">
+    <path d="M0 0h184v184H0z" fill="#14181b"/>
+    <path d="M0 0h184v14H0zM0 170h184v14H0zM0 0h14v184H0zM170 0h14v184h-14z" fill="url(#accent)"/>
+    <path d="M52 48h54c32 0 51 15 51 39 0 14-7 24-20 30 16 6 25 17 25 33 0 25-20 40-55 40H52V48Zm33 26v31h19c13 0 20-5 20-16 0-10-7-15-20-15H85Zm0 57v33h24c14 0 21-6 21-17 0-11-7-16-21-16H85Z" fill="#f5f1e8"/>
+    <path d="M47 48v142h34V74h25c14 0 21 5 21 15 0 9-5 14-16 16h39c12-6 18-16 18-29 0-23-19-38-51-38H47Z" fill="url(#accent)" opacity=".95"/>
+    <path d="M52 48h33v142H52z" fill="#14181b"/>
+  </g>
+  <g transform="translate(248 56)">
+    <text x="0" y="66" fill="#14181b" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="3">БЕЛАТРИУМ</text>
+    <rect x="4" y="90" width="116" height="6" fill="url(#accent)"/>
+    <text x="4" y="128" fill="#60676b" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">КОМПЛЕКСНЫЙ РЕМОНТ</text>
+  </g>
+</svg>
